@@ -1,4 +1,4 @@
-# Customer Churn Prediction - Project Report
+# Customer Churn Prediction
 
 ## 1. Introduction
 
